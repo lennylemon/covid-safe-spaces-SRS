@@ -1,2 +1,2 @@
 # covid-safe-spaces-SRS
-University Project
+University Project, focussing on requirements elicitation and documentation.
